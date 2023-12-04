@@ -35,6 +35,6 @@ Welcome to my coding corner! I'm Jaime, a tech enthusiast currently navigating t
 
 ## 📬 Reach Me
 
-- **Email:** jaimedy3@gmail.com
+- **Email:** dyiiijaime@gmail.com
 
 Let's connect and collaborate on exciting projects! Feel free to reach
