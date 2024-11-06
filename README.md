@@ -23,15 +23,21 @@ Welcome to my coding corner! I'm Jaime, a tech enthusiast currently navigating t
 - **Programming:**
   - Java
   - Javascript
-  
+  - Typescript
+  - HTML
+  - React
+    
 - **Databases:**
   - IBM DB2 Cloud
   
 - **Tools:**
   - Lucidchart
   - Jaspersoft Studio
+  - Pentaho
   - Eclipse
-  - HTML
+  - VSCode
+  - Jira
+  - Git and Github
 
 ## 📬 Reach Me
 
