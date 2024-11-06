@@ -25,6 +25,7 @@ Welcome to my coding corner! I'm Jaime, a tech enthusiast currently navigating t
   - Javascript
   - Typescript
   - HTML
+  - CSS
   - React
     
 - **Databases:**
@@ -38,6 +39,7 @@ Welcome to my coding corner! I'm Jaime, a tech enthusiast currently navigating t
   - VSCode
   - Jira
   - Git and Github
+  - Tailwind CSS
 
 ## 📬 Reach Me
 
