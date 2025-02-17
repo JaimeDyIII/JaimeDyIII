@@ -41,7 +41,7 @@ Welcome to my coding corner! I'm Jaime, a tech enthusiast currently navigating t
   - Git and Github
   - Tailwind CSS
 
-- **Trophies**
+## Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=JaimeDyIII)](https://github.com/ryo-ma/github-profile-trophy)
 
 
