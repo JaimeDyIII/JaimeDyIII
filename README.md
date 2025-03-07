@@ -26,10 +26,10 @@ Welcome to my coding corner! I'm Jaime, a tech enthusiast currently navigating t
   - Typescript
   - HTML
   - CSS
-  - React
     
 - **Databases:**
   - IBM DB2 Cloud
+  - Supabase
   
 - **Tools:**
   - Lucidchart
@@ -39,7 +39,12 @@ Welcome to my coding corner! I'm Jaime, a tech enthusiast currently navigating t
   - VSCode
   - Jira
   - Git and Github
+  - React
+  - React Native
+  - Expo
+  - Vercel
   - Tailwind CSS
+  - Bootstrap
 
 ## Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=JaimeDyIII)](https://github.com/ryo-ma/github-profile-trophy)
