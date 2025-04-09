@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Jaime Dy III
 
-Welcome to my coding corner! I'm Jaime, a tech enthusiast currently navigating the world of Computer Science. Crafting solutions to complex problems is my forte, and I have a passion for database management.
+Welcome to my coding corner! I'm Jaime, a tech enthusiast currently navigating the world of Computer Science. Crafting solutions to complex problems is my forte, and I have an interest for database management.
 
 ## 🎓 Education
 
@@ -47,7 +47,7 @@ Welcome to my coding corner! I'm Jaime, a tech enthusiast currently navigating t
   - Bootstrap
 
 ## Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=JaimeDyIII)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JaimeDyIII)](https://github.com/ryo-ma/github-profile-trophy=onedark)
 
 
 ## 📬 Reach Me
