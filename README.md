@@ -39,6 +39,9 @@ Welcome to my coding corner! I'm Jaime, a tech enthusiast currently navigating t
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
+  </a>
 </p>
     
 ### 🗃️ Databases
@@ -56,12 +59,13 @@ Welcome to my coding corner! I'm Jaime, a tech enthusiast currently navigating t
   <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/></a>
   <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28" alt="React Native"/></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" alt=".NET"/></a>  <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js"/></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap"/></a>
   <a href="https://expo.dev/" target="_blank"><img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="28" alt="Expo"/></a>
   <a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="Vercel"/></a>
   <a href="https://www.lucidchart.com/" target="_blank"><img src="https://img.shields.io/badge/Lucidchart-FF9900?style=for-the-badge&logo=lucidchart&logoColor=white" height="28" alt="Lucidchart"/></a>
   <a href="https://community.jaspersoft.com/project/jaspersoft-studio" target="_blank"><img src="https://img.shields.io/badge/Jaspersoft-046BA5?style=for-the-badge&logo=data&logoColor=white" height="28" alt="Jaspersoft"/></a>
-  <a href="https://www.hitachivantara.com/en-us/products/dataops/pentaho.html" target="_blank"><img src="https://img.shields.io/badge/Pentaho-003764?style=for-the-badge&logo=hitachivantara&logoColor=white" height="28" alt="Pentaho"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap"/></a>
+  <a href="https://www.hitachivantara.com/en-us/products/dataops/pentaho.html" target="_blank"><img src="https://img.shields.io/badge/Pentaho-003764?style=for-the-badge&logo=hitachivantara&logoColor=white" height="28"   alt="Pentaho"/></a>
 </p>
 
 ---
